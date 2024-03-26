@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @kfdraughon@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I want to make a website for my art
+- ⚡ Fun fact: I want to be rich
 
 <!---
 KyreeDraughon/KyreeDraughon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
